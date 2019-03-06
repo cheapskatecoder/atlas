@@ -1,0 +1,159 @@
+{
+   "Abstract" : "",
+   "DefinitionSource" : "",
+   "ImageWidth" : 0,
+   "Infobox" : "",
+   "meta" : {
+      "production_state" : "online",
+      "unsafe" : 0,
+      "blockgroup" : null,
+      "perl_module" : "DDG::Fathead::Wikipedia",
+      "id" : "wikipedia_fathead",
+      "src_name" : "Wikipedia",
+      "src_id" : 1,
+      "signal_from" : "wikipedia_fathead",
+      "src_options" : {
+         "language" : "en",
+         "min_abstract_length" : "20",
+         "directory" : "",
+         "skip_qr" : "",
+         "source_skip" : "",
+         "skip_image_name" : 0,
+         "skip_end" : "0",
+         "skip_abstract" : 0,
+         "skip_abstract_paren" : 0,
+         "is_wikipedia" : 1,
+         "skip_icon" : 0,
+         "src_info" : "",
+         "is_mediawiki" : 1,
+         "is_fanon" : 0
+      },
+      "tab" : "About",
+      "dev_milestone" : "live",
+      "producer" : null,
+      "dev_date" : null,
+      "example_query" : "nikola tesla",
+      "maintainer" : {
+         "github" : "duckduckgo"
+      },
+      "designer" : null,
+      "is_stackexchange" : null,
+      "live_date" : null,
+      "js_callback_name" : "wikipedia",
+      "repo" : "fathead",
+      "topic" : [
+         "productivity"
+      ],
+      "created_date" : null,
+      "developer" : [
+         {
+            "url" : "http://www.duckduckhack.com",
+            "type" : "ddg",
+            "name" : "DDG Team"
+         }
+      ],
+      "src_domain" : "en.wikipedia.org",
+      "description" : "Wikipedia",
+      "status" : "live",
+      "name" : "Wikipedia",
+      "src_url" : null,
+      "attribution" : null
+   },
+   "Results" : [],
+   "DefinitionURL" : "",
+   "RelatedTopics" : [
+      {
+         "Result" : "<a href=\"https://duckduckgo.com/%22Hello%2C_World!%22_program\">\"Hello, World!\" program</a> A \"Hello, World!\" program is a computer program that outputs or displays \"Hello, World!\".",
+         "Icon" : {
+            "Height" : "",
+            "Width" : "",
+            "URL" : ""
+         },
+         "Text" : "\"Hello, World!\" program A \"Hello, World!\" program is a computer program that outputs or displays \"Hello, World!\".",
+         "FirstURL" : "https://duckduckgo.com/%22Hello%2C_World!%22_program"
+      },
+      {
+         "Text" : "Hello World: The Motown Solo Collection A 71-track triple disc box set commemorating Michael Jackson's early years with Motown Records.",
+         "Icon" : {
+            "Width" : "",
+            "Height" : "",
+            "URL" : "https://duckduckgo.com/i/9096a23b.jpg"
+         },
+         "FirstURL" : "https://duckduckgo.com/Hello_World%3A_The_Motown_Solo_Collection",
+         "Result" : "<a href=\"https://duckduckgo.com/Hello_World%3A_The_Motown_Solo_Collection\">Hello World: The Motown Solo Collection</a> A 71-track triple disc box set commemorating Michael Jackson's early years with Motown Records."
+      },
+      {
+         "Result" : "<a href=\"https://duckduckgo.com/Hello_World_(Scandal_album)\">Hello World</a>The sixth studio album by Japanese pop rock band, Scandal.",
+         "FirstURL" : "https://duckduckgo.com/Hello_World_(Scandal_album)",
+         "Icon" : {
+            "URL" : "",
+            "Height" : "",
+            "Width" : ""
+         },
+         "Text" : "Hello World The sixth studio album by Japanese pop rock band, Scandal."
+      },
+      {
+         "Topics" : [
+            {
+               "Result" : "\"<a href=\"https://duckduckgo.com/Hello_World!_(composition)\">Hello World!</a>\" \"Hello World!\" is a piece of contemporary classical music for clarinet-violin-piano trio...",
+               "FirstURL" : "https://duckduckgo.com/Hello_World!_(composition)",
+               "Icon" : {
+                  "URL" : "https://duckduckgo.com/i/c1eff7a6.png",
+                  "Width" : "",
+                  "Height" : ""
+               },
+               "Text" : "\"Hello World! \" \"Hello World!\" is a piece of contemporary classical music for clarinet-violin-piano trio..."
+            },
+            {
+               "Result" : "\"<a href=\"https://duckduckgo.com/Hello_World_(song)\">Hello World</a>\" A song written by Tom Douglas, Tony Lane and David Lee, and recorded by American country music...",
+               "FirstURL" : "https://duckduckgo.com/Hello_World_(song)",
+               "Text" : "\"Hello World \" A song written by Tom Douglas, Tony Lane and David Lee, and recorded by American country music...",
+               "Icon" : {
+                  "Width" : "",
+                  "Height" : "",
+                  "URL" : "https://duckduckgo.com/i/11ec9c16.jpg"
+               }
+            },
+            {
+               "Result" : "<a href=\"https://duckduckgo.com/Hello_World_(Information_Society_album)\">Hello World</a> An album by American synthpop/freestyle band Information Society.",
+               "FirstURL" : "https://duckduckgo.com/Hello_World_(Information_Society_album)",
+               "Text" : "Hello World An album by American synthpop/freestyle band Information Society.",
+               "Icon" : {
+                  "Height" : "",
+                  "Width" : "",
+                  "URL" : ""
+               }
+            }
+         ],
+         "Name" : "Music"
+      },
+      {
+         "Name" : "Business",
+         "Topics" : [
+            {
+               "Text" : "HelloWorld Inc A digital engagement agency specializing in mobile, social media, and web campaigns.",
+               "Icon" : {
+                  "Width" : "",
+                  "Height" : "",
+                  "URL" : ""
+               },
+               "FirstURL" : "https://duckduckgo.com/HelloWorld_Inc",
+               "Result" : "<a href=\"https://duckduckgo.com/HelloWorld_Inc\">HelloWorld Inc</a>A digital engagement agency specializing in mobile, social media, and web campaigns."
+            }
+         ]
+      }
+   ],
+   "AbstractSource" : "Wikipedia",
+   "Type" : "D",
+   "AbstractURL" : "https://en.wikipedia.org/wiki/Hello_World_(disambiguation)",
+   "Heading" : "Hello World",
+   "ImageIsLogo" : 0,
+   "Definition" : "",
+   "Answer" : "",
+   "Redirect" : "",
+   "Image" : "",
+   "AnswerType" : "",
+   "Entity" : "",
+   "AbstractText" : "",
+   "ImageHeight" : 0
+}
